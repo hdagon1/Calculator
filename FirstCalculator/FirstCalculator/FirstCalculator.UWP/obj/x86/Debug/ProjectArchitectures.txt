@@ -1,0 +1,1 @@
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator.UWP\FirstCalculator.UWP.csproj;x86

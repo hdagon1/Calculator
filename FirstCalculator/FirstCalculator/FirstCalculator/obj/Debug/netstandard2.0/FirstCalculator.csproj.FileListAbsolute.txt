@@ -1,0 +1,12 @@
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\bin\Debug\netstandard2.0\FirstCalculator.deps.json
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\bin\Debug\netstandard2.0\FirstCalculator.dll
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\bin\Debug\netstandard2.0\FirstCalculator.pdb
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\obj\Debug\netstandard2.0\FirstCalculator.csprojAssemblyReference.cache
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\obj\Debug\netstandard2.0\FirstCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\obj\Debug\netstandard2.0\FirstCalculator.AssemblyInfoInputs.cache
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\obj\Debug\netstandard2.0\FirstCalculator.AssemblyInfo.cs
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\obj\Debug\netstandard2.0\FirstCalculator.dll
+C:\Users\hdago\source\repos\FirstCalculator\FirstCalculator\FirstCalculator\obj\Debug\netstandard2.0\FirstCalculator.pdb
