@@ -7495,11 +7495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator.UWP\\FirstCalculator.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.UWP\\FirstCalculator.UWP.csproj",
       "projectName": "FirstCalculator.UWP",
-      "projectPath": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator.UWP\\FirstCalculator.UWP.csproj",
+      "projectPath": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.UWP\\FirstCalculator.UWP.csproj",
       "packagesPath": "C:\\Users\\hdago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator.UWP\\obj\\",
+      "outputPath": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7519,8 +7519,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj": {
-              "projectPath": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj"
+            "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj": {
+              "projectPath": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj"
             }
           }
         }

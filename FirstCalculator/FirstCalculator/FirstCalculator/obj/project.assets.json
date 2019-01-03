@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj",
       "projectName": "FirstCalculator",
-      "projectPath": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj",
+      "projectPath": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj",
       "packagesPath": "C:\\Users\\hdago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator\\obj\\",
+      "outputPath": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

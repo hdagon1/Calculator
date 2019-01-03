@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator.iOS\\FirstCalculator.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.iOS\\FirstCalculator.iOS.csproj",
       "projectName": "FirstCalculator.iOS",
-      "projectPath": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator.iOS\\FirstCalculator.iOS.csproj",
+      "projectPath": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.iOS\\FirstCalculator.iOS.csproj",
       "packagesPath": "C:\\Users\\hdago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator.iOS\\obj\\",
+      "outputPath": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj": {
-              "projectPath": "C:\\Users\\hdago\\source\\repos\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj"
+            "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj": {
+              "projectPath": "C:\\Users\\hdago\\source\\repos\\Calculator\\FirstCalculator\\FirstCalculator\\FirstCalculator\\FirstCalculator.csproj"
             }
           }
         }

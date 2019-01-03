@@ -24,7 +24,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             
-            <Label Text="IUBWECIU" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" FontSize="80" HorizontalOptions="EndAndExpand"/>
+            <Label x:Name="Input" Text="" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" FontSize="80" HorizontalOptions="EndAndExpand"/>
             
             <Button Text="C" Grid.Row="1" Grid.Column="1" Pressed="Button_Pressed"/>
             <Button Text="Del" Grid.Row="1" Grid.Column="2" Pressed="Button_Pressed"/>
